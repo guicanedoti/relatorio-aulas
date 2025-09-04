@@ -1,0 +1,12 @@
+# Arquivos e pastas do PyInstaller
+dist/
+build/
+__pycache__/
+
+# Outros arquivos desnecessários
+*.pyc
+*.log
+.DS_Store
+
+# Adicione aqui o arquivo .exe
+*.exe
